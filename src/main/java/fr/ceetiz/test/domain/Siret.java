@@ -1,9 +1,5 @@
 package fr.ceetiz.test.domain;
 
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotEmpty;
-import javax.validation.constraints.NotNull;
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Siret {

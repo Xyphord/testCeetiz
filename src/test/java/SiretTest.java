@@ -1,6 +1,5 @@
 import fr.ceetiz.test.domain.Siret;
 import junit.framework.TestCase;
-import junit.framework.TestResult;
 import org.junit.Assert;
 
 public class SiretTest  extends TestCase {
